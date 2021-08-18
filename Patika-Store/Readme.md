@@ -1,2 +1,3 @@
 # PatikaStoreApp
-![]([url=https://www.hizliresim.com/rh7vgzw][img]https://i.hizliresim.com/rh7vgzw.png[/img][/url])
+![](https://github.com/ozivarol/React-Native-Projects/blob/8e4e2e12d74441992317da47cea4b24a37e78b1b/Patika-Store/22.jpg)
+
