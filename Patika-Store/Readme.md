@@ -1,2 +1,2 @@
 # PatikaStoreApp
-![](https://www.hizliresim.com/rh7vgzw)
+![](https://www.hizliresim.com/rh7vgzw.png)
